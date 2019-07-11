@@ -1,2 +1,2 @@
 # PracticeRepostitory
- practice using github
+I created this so that I can practice using GitHub
